@@ -1,5 +1,9 @@
 # Visualización de Datos con Matplotlib y Seaborn
 
+![pairplot](img/pairplot.png)
+
+![jointplot](img/jointplot.png)
+
 Este repositorio contiene un estudio detallado sobre las herramientas básicas necesarias para trabajar con las librerías de visualización de datos Matplotlib y Seaborn. A lo largo de este curso, se repasaron varios temas fundamentales para comprender y utilizar estas librerías de manera efectiva.
 
 ## Temas de Matplotlib
